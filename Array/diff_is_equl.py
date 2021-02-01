@@ -25,5 +25,5 @@ if var == var2:
 '''
 var ID:-  1882345925200
 var2 ID:- 1882345925200
-id same ahet
+id same ahet ok
 '''
