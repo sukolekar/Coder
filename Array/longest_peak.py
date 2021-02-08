@@ -1,3 +1,4 @@
+# Longes Peak program --> asc then desc --> return len of longest peak element
 def longestPeak(array):
     # Write your code here.
     longestPeakLength = 0
