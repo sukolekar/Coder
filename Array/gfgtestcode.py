@@ -4,7 +4,7 @@ class Acc:
         id = 555
 
 acc = Acc(111)
-print(acc.id)   #==> 111
+print(acc.id)   #output==> 111
 
 '''
 
